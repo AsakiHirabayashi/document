@@ -1,6 +1,6 @@
 # rbenvを使用して最新とひとつ前のRubyをインストールする方法
 ## 実行環境
-- 
+- macOS
 - CentOS Linux 7 (Core)
 ## rbenvとは？
 - Rubyのバージョン管理ツールのひとつ。
