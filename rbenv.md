@@ -131,7 +131,7 @@ rbenv install --list
 ```
 - rubyインストール
 ```
-rbenv install <version>
+rbenv install 3.2.3
 ```
 - 切り替え可能なrubyのバージョンを確認
 ```
@@ -139,7 +139,7 @@ rbenv versions
 ```
 - rubyのバージョンを切り替え
 ```
-rbenv local <version>
+rbenv local 3.2.3
 ```
 - rubyのバージョンが切り替わったことを確認
 ```
